@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/weo-edu/agnosticize/issues"
   },
-  "homepage": "https://github.com/weo-edu/agnosticize"
+  "homepage": "https://github.com/weo-edu/agnosticize",
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "mocha": "^2.1.0"
+  }
 }
