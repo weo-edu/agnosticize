@@ -1,0 +1,30 @@
+{
+  "name": "agnosticize",
+  "version": "0.1.0",
+  "description": "Takes in a URL and returns a protocol agnostic URL.  E.g. 'http://www.google.com' => '//www.google.com'",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weo-edu/agnosticize"
+  },
+  "keywords": [
+    "agnosticize",
+    "agnostic",
+    "url",
+    "agnostic",
+    "protocol",
+    "url"
+  ],
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weo-edu/agnosticize/issues"
+  },
+  "homepage": "https://github.com/weo-edu/agnosticize"
+}
